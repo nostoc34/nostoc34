@@ -1,4 +1,4 @@
-### Hi. I'm Selim. 👋
+### Selim Yaman
 
 <h3>Computer Engineering Student at Konya Technical University</h3>
 <h3>Front-end Web Developer</h3>
