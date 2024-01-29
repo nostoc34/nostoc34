@@ -1,7 +1,7 @@
 ### Selim Yaman
 
 <h3>Computer Engineering Student at Konya Technical University</h3>
-<h3>Front-end Web Developer</h3>
+<h3>Full-stack Developer</h3>
 
 <h5>Technologies I'm familiar with:</h5>
 <ul>
@@ -11,6 +11,9 @@
   <li>ReactJS</li>
   <li>NodeJS</li>
   <li>ExpressJS</li>
+  <li>MongoDB</li>
+  <li>RethinkDB</li>
+  <li>GraphQL</li>
 </ul>
 
 <!--
