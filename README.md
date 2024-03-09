@@ -1,7 +1,8 @@
 ### Selim Yaman
 
 <h3>Computer Engineering Student at Konya Technical University</h3>
-<h3>Full-stack Developer</h3>
+<h3>Full-stack Developer at NİBGAT®</h3>
+<h3>Back-end Developer at İşin Olacak</h3>
 
 <h5>Technologies I'm familiar with:</h5>
 <ul>
@@ -11,9 +12,13 @@
   <li>ReactJS</li>
   <li>NodeJS</li>
   <li>ExpressJS</li>
+  <li>NestJS</li>
   <li>MongoDB</li>
   <li>RethinkDB</li>
   <li>GraphQL</li>
+  <li>Docker</li>
+  <li>Redis</li>
+  <li>Microservices</li>
 </ul>
 
 <!--
